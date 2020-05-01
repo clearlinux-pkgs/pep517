@@ -1,5 +1,5 @@
 PKG_NAME := pep517
-URL = https://files.pythonhosted.org/packages/5b/9e/617dabe6ee81a8a85b4f0eb026e0ea37d28e210624df67ceef166e45535b/pep517-0.8.1.tar.gz
+URL = https://files.pythonhosted.org/packages/93/80/5398cb3bde7d188569b33a65df291bdcaee669c6228a858d539d83a1eef3/pep517-0.8.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
