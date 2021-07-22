@@ -4,7 +4,7 @@
 #
 Name     : pep517
 Version  : 0.11.0
-Release  : 15
+Release  : 16
 URL      : https://files.pythonhosted.org/packages/da/12/6d373f746ad1cec5ab9415d6a1df54ecc0a9001124bd771742755dcecded/pep517-0.11.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/da/12/6d373f746ad1cec5ab9415d6a1df54ecc0a9001124bd771742755dcecded/pep517-0.11.0.tar.gz
 Summary  : Wrappers to build Python packages using PEP 517 hooks
